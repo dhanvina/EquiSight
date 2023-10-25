@@ -1,5 +1,8 @@
 # Regression-Driven Stock Market Price Predictors Survey
 
+![Stock Market](https://www.marketsmedia.com/wp-content/uploads/2020/09/Depositphotos_71600303_l-2015.jpg)
+
+
 ## Introduction
 
 This repository contains the research paper titled "Survey of Regression-Driven Stock Market Price Predictors," presented at the 2nd National Conference on Engineering Applications of Emerging Technology in association with the International Journal of Scientific Research in Science, Engineering, and Technology. The paper investigates various regression algorithms for stock market price prediction, focusing on their accuracy and performance metrics. The code and analysis provided here demonstrate the efficacy of various regression models, including linear regression, robust regression, ridge regression, and lasso regression. Additionally, the implementation of a neural network for predictive analysis is showcased to provide a comprehensive understanding of the application of machine learning in financial markets.
